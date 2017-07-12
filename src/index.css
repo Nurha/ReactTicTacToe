@@ -1,5 +1,5 @@
 body {
-  font: 14 'Century Gothic', Futura, sans-serif;
+  font: 14px 'Century Gothic', Futura, sans-serfi;
   margin: 20px;
 }
 
@@ -17,7 +17,7 @@ ol, ul {
   margin-bottom: 10px;
 }
 
-.spaure {
+.square {
   background: #fff;
   border: 1px solid #999;
   float: left;
